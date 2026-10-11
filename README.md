@@ -95,6 +95,7 @@ A curated list of awesome Apache Iceberg resources, libraries, tools, and learni
 - [AWS DMS with Amazon Data Firehose](https://aws.amazon.com/blogs/aws/replicate-changes-from-databases-to-apache-iceberg-tables-using-amazon-data-firehose/) - Captures database changes and streams updates to Iceberg tables with automatic table creation and schema management. Commercial (AWS).
 - [Upsolver](https://www.upsolver.com/) - Cloud-based CDC platform with native Iceberg support, equality deletes as first-class citizen, and aggressive compaction for 1000s of changes per minute. Commercial (acquired by Qlik 2025).
 - [Estuary Flow](https://estuary.dev/blog/kafka-to-apache-iceberg/) - Real-time data integration with sub-100ms latency, automatic schema evolution, and CDC capabilities from Kafka to Iceberg. Commercial.
+- [OLake](https://github.com/datazip-inc/olake) - Open-source CDC and batch replication from Postgres, MySQL, MongoDB, Oracle, SQL Server, DB2, Kafka and S3 into Apache Iceberg, plus compaction and snapshot maintenance. Written in Go.
 
 ### Streaming Connectors
 
