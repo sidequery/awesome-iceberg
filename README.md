@@ -195,6 +195,7 @@ A curated list of awesome Apache Iceberg resources, libraries, tools, and learni
 - [Cloudera Data Platform](https://www.cloudera.com/open-source/apache-iceberg.html) - Hybrid cloud platform with first-class Iceberg support via Hive, Impala, Spark, Flink, REST catalog, and SDX integration for security and governance. Commercial.
 - [Upsolver](https://www.upsolver.com/) - Real-time streaming ingestion platform with native Iceberg support, Adaptive Iceberg Optimizer, and CDC processing (acquired by Qlik January 2025). Commercial.
 - [Confluent](https://www.confluent.io/) - Enterprise Kafka platform with Tableflow for automatic Iceberg table creation, managed Kafka Connect with Iceberg sink, and Flink integration. Commercial.
+- [IOMETE](https://iomete.com) - Self-hosted data lakehouse platform built on Apache Iceberg and Apache Spark, deployable on-premises or in private or public clouds on Kubernetes. Commercial.
 
 ## Development Tools
 
