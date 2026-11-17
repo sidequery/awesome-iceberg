@@ -92,6 +92,7 @@ A curated list of awesome Apache Iceberg resources, libraries, tools, and learni
 ### CDC Tools
 
 - [Debezium Server Iceberg](https://github.com/memiiso/debezium-server-iceberg) - Direct CDC to Iceberg without Kafka or Spark, supporting PostgreSQL, MySQL, MongoDB, SQL Server, Oracle with real-time change capture. Open source (Apache 2.0).
+- [OLake Go](https://github.com/datazip-inc/olake-go) - Go-native CDC and full-load replication from PostgreSQL, MySQL, MongoDB, Oracle, SQL Server, DB2, Kafka and S3 into Iceberg, with schema evolution, exactly-once delivery and Glue/Hive/JDBC/REST catalog support. No Spark, Flink, Kafka or Debezium required. Open source (Apache 2.0).
 - [AWS DMS with Amazon Data Firehose](https://aws.amazon.com/blogs/aws/replicate-changes-from-databases-to-apache-iceberg-tables-using-amazon-data-firehose/) - Captures database changes and streams updates to Iceberg tables with automatic table creation and schema management. Commercial (AWS).
 - [Upsolver](https://www.upsolver.com/) - Cloud-based CDC platform with native Iceberg support, equality deletes as first-class citizen, and aggressive compaction for 1000s of changes per minute. Commercial (acquired by Qlik 2025).
 - [Estuary Flow](https://estuary.dev/blog/kafka-to-apache-iceberg/) - Real-time data integration with sub-100ms latency, automatic schema evolution, and CDC capabilities from Kafka to Iceberg. Commercial.
